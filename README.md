@@ -19,5 +19,6 @@ to pull current stock values from Vanguard.
 ```
    This file says 75% of the total value should be invested in VTI, and 25% should
 be invested in VXUS.
+
 2. Run the tool with `go run *.go --holdings=holdings.json --amount=1234.56`,
    where `1234.56` is how much money you're adding to the fund.
