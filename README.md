@@ -5,7 +5,7 @@ to pull current stock values from Vanguard.
 ## To use
 
 1. Create a `holdings.json` file similar to the one below:
-   ```json
+   ```javascript
    {
      "Holdings": {
        "VXUS": 177.487,
